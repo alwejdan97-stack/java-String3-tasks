@@ -17,6 +17,6 @@ public class Task2WithoutString {
                 result = result + chr;
             }
         }
-
+        return result;
     }
 }
