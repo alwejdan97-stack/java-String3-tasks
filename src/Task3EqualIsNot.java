@@ -18,6 +18,6 @@ public class Task3EqualIsNot {
         if(countIs==countNot){
             return true;
         }
-        return false;
+
     }
 }
