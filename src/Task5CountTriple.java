@@ -12,6 +12,6 @@ public class Task5CountTriple {
                 count++;
             }
         }
-
+        return count;
     }
 }
