@@ -14,6 +14,6 @@ public class Task1CountYZ {
                 }
             }
         }
-
+        return count;
     }
 }
