@@ -11,6 +11,6 @@ public class Task6SumDigits {
                 sum= sum+ chr - '0';
             }
         }
-        return sum;
+
     }
 }
