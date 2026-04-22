@@ -1,4 +1,4 @@
-public class Task8MirrorEnds {
+public class mirrorEnds {
     public static void main(String[] args){
         System.out.println(mirrorEnds("abXYZba"));
         System.out.println(mirrorEnds("abca"));
