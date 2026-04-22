@@ -23,7 +23,7 @@ public class Task9MaxBlock {
                     currentCount=1;
                 }
             }
-
+        return count;
 
     }
 }
