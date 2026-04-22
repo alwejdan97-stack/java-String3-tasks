@@ -1,4 +1,4 @@
-public class Task4gHappy {
+public class gHappy {
     public static void main(String[] args){
         System.out.println("check if gg appear in the text or not: "+ gHappy("egg"));
         System.out.println("check if gg appear in the text or not: "+ gHappy("xxggyygxx"));
