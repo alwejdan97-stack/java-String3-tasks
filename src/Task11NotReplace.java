@@ -14,7 +14,7 @@ public class Task11NotReplace {
                     (i == 0 || !Character.isLetter(text.charAt(i - 1))) &&
                     (i + 2 >= text.length() || !Character.isLetter(text.charAt(i + 2)))){
                 result = result + "is not";
-                i++; // skip 's'
+                i++;
             } else {
                 result = result + text.charAt(i);
             }
