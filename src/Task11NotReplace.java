@@ -19,6 +19,6 @@ public class Task11NotReplace {
                 result = result + text.charAt(i);
             }
         }
-
+        return result;
     }
 }
