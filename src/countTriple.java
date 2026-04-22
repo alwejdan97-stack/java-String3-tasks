@@ -1,4 +1,4 @@
-public class Task5CountTriple {
+public class countTriple {
     public static void main(String[] args){
         System.out.println("the number of tripple is: "+ countTriple("abcXXXabc"));
         System.out.println("the number of tripple is: "+ countTriple("xxa"));
