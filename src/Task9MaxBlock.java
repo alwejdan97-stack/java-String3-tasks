@@ -24,6 +24,6 @@ public class Task9MaxBlock {
                 }
             }
 
-        return count;
+
     }
 }
