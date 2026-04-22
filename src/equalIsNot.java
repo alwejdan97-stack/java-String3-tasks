@@ -1,4 +1,4 @@
-public class Task3EqualIsNot {
+public class equalIsNot {
     public static void main(String[] args) {
         System.out.println("check if nmber of is and not is equal or not: " + equalIsNot("isnot"));
         System.out.println("check if nmber of is and not is equal or not: " + equalIsNot("isnotnot"));
