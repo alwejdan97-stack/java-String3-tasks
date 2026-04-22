@@ -1,4 +1,4 @@
-public class Task1CountYZ {
+public class countYZ {
     public static void main(String[] args){
         System.out.println("The count of word which ends with y or z is: "+ countYZ("hello from xy"));
         System.out.println("The count of word which ends with y or z is: "+ countYZ("fez day"));
