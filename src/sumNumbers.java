@@ -1,4 +1,4 @@
-public class Task10SumNumbers {
+public class sumNumbers {
     public static void main(String[] args){
         System.out.println(sumNumbers("abc123xyz"));
         System.out.println(sumNumbers("aa11b33"));
