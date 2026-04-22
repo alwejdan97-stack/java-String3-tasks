@@ -1,4 +1,4 @@
-public class Task2WithoutString {
+public class withoutString {
     public static void main(String[] args){
         System.out.println(withoutString("Oooman","oo"));
         System.out.println(withoutString("OO","oo"));
