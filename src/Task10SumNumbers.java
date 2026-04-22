@@ -20,6 +20,6 @@ public class Task10SumNumbers {
             sum=sum + Integer.parseInt(number);
             number="";
         }
-        return sum;
+
     }
 }
