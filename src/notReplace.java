@@ -1,4 +1,4 @@
-public class Task11NotReplace {
+public class notReplace {
     public static void main(String[] args){
         System.out.println(notReplace("is test"));
         System.out.println(notReplace("is-is"));
