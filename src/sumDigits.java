@@ -1,4 +1,4 @@
-public class Task6SumDigits {
+public class sumDigits {
     public static void main(String[] args){
         System.out.println("the sum of digit is: "+ sumDigits("w3ejda7n1"));
     }
