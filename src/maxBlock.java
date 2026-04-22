@@ -1,4 +1,4 @@
-public class Task9MaxBlock {
+public class maxBlock {
     public static void main(String[] args){
         System.out.println(maxBlock("hoopla"));
         System.out.println(maxBlock("abbCCCddBBBxx"));
@@ -7,7 +7,7 @@ public class Task9MaxBlock {
     }
     public static int maxBlock(String text){
         int count = 1;
-        int currentCount=1;
+        int max=1;
         if(text.length() ==0){
             return 0;
         }
@@ -15,12 +15,12 @@ public class Task9MaxBlock {
             char chr1 = text.charAt(i);
             char chr2 =text.charAt(i-1);
             if(chr1==chr2){
-                currentCount++;
-                if(currentCount > count){
-                    count=currentCount;
+                max++;
+                if(max > count){
+                    count=max;
                 }
             }else{
-                    currentCount=1;
+                    max=1;
                 }
             }
         return count;
