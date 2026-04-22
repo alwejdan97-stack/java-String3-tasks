@@ -15,6 +15,6 @@ public class Task8MirrorEnds {
                 break;
             }
         }
-        return result;
+
     }
 }
